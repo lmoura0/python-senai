@@ -1,0 +1,5 @@
+print('olá, mundo!')
+print ('Bom dia a todos presentes')
+print ('hoje o dia ta lindo')
+print('vamos pra luta')
+print('fé em Deus')
